@@ -1,1 +1,19 @@
-# spam-wa
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+# Spam-Wa
+Script termux spam wa unlimited terbaru !
+
+<details open><summary><code>Perintah Script?</code></summary>
+
+```php
+$ git clone https://github.com/Sxp-ID/spam-wa
+$ cd spam-wa
+$ make install
+$ ./main
+
+Atau bisa juga run script nya dg ketik perintah
+$ make run
+```
+</details
