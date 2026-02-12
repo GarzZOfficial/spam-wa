@@ -8,7 +8,7 @@ Script termux spam wa unlimited terbaru !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/spam-wa
+$ git clone https://github.com/GarzZOfficial/spam-wa.git
 $ cd spam-wa
 $ make install
 $ ./main
